@@ -11,3 +11,6 @@
 
 <h2>Punto 2: HTML</H2>
 <img src="./public/images/html.png" alt="html">
+
+<h2>Punto 3: CCS del diseño</H2>
+<img src="./public/images/html.png" alt="html">
