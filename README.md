@@ -6,7 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <p> Link Página Web </p>
-<a href="./index.html" target="_blank"> Link Página Web</a>
+<a href="https://github.com/Diegobdevf/taller-9-full-stack" target="_blank"> Link Página Web</a>
 
 <h2> Punto 1: Link figma</h2>
 
