@@ -1,0 +1,23 @@
+.tabla {
+    border-collapse: collapse;
+    width: 700px;
+    background-color: rgb(234, 219, 59);   
+    
+}
+
+.tabla thead td{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tabla tr {
+    border: 2px dashed rgb(0, 0, 0); 
+    padding: 10px;
+    text-align: center;
+}
+.tabla td {
+    text-align: justify;
+}
+

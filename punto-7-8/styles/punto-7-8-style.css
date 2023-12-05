@@ -1,0 +1,21 @@
+.header__navigation{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 50px;
+    background-color: rgb(244, 209, 244);
+   
+    
+    }.header__navigation nav ul{
+        display: flex;
+        gap: 25px;
+        list-style: none;
+    }
+    .header__navigation nav ul li a{
+        text-decoration: none;
+        color: white;        
+    }
+    .header__navigation nav ul li a:hover {
+        color: #fff; /* Cambia el color del texto al rojo al pasar el cursor */
+        background-color: blue;}
+    

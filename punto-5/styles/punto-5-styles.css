@@ -1,0 +1,21 @@
+.verde_resaltado{
+    color: green;
+    text-decoration: underline;
+}
+.rojo{
+    color: red;
+}
+.subrayado{
+    text-decoration: overline;
+    text-decoration: underline;
+}
+.tamaño_letra{
+    font-size: 50px;
+}
+.azul{
+    color: blue;
+}
+.rojo_resaltado{
+    color: red;
+    text-decoration: underline;
+}

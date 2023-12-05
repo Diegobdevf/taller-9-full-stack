@@ -14,3 +14,18 @@
 
 <h2>Punto 3: CCS del diseño</H2>
 <img src="./public/images/html.png" alt="html">
+
+<h2>Punto 4: Mostrar texto solicitado</H2>
+<img src="./public/images/punto_4.png" alt="html">
+
+<h2>Punto 5: Parrafo</H2>
+<img src="./public/images/punto_5.png" alt="html">
+
+<h2>Punto 6: Links</H2>
+<img src="./public/images/punto_6_enlaces.png" alt="html">
+
+<h2>Punto 7-8: Navegacion</H2>
+<img src="./public/images/punto_7_8.png" alt="html">
+
+<h2>Punto 9: Tabla</H2>
+<img src="./public/images/punto_9_tabla.png" alt="html">
