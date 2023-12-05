@@ -5,6 +5,9 @@
 <p>Curso: full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
+<p> Link Página Web </p>
+<a href="./index.html" target="_blank"> Link Página Web</a>
+
 <h2> Punto 1: Link figma</h2>
 
 <a href="https://www.figma.com/file/oswqfvV5WkFeWPVds7mbSf/Diego-Alexander-Bar%C3%B3n-Bernal?type=design&node-id=0%3A1&mode=design&t=jRlk2cwiKe875LaE-1" target="_blank">Link de Figma</a>
